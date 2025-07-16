@@ -1,0 +1,6 @@
+Responsive Design
+- Viewport
+The visual part of the screen that the user can screen.
+- Media Queries
+Media Types: print, screen
+Media Features: height, width, orientation
