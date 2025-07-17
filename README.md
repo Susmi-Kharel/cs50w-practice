@@ -13,8 +13,8 @@ Each folder corresponds to a topic/module in the course and includes:
 
 | Topic                     | Status      |
 |---------------------------|-------------|
-| HTML, CSS                 | In Progress |
-| Git                       | Not Started |
+| HTML, CSS                 | Completed   |
+| Git                       | In Progress |
 | Python                    | Not Started |
 | Django                    | Not Started |
 | SQL, Models & Migrations  | Not Started |
