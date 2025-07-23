@@ -15,8 +15,8 @@ Each folder corresponds to a topic/module in the course and includes:
 |---------------------------|-------------|
 | HTML, CSS                 | Completed   |
 | Git                       | Completed   |
-| Python                    | In Progress |
-| Django                    | Not Started |
+| Python                    | Completed   |
+| Django                    | In Progress |
 | SQL, Models & Migrations  | Not Started |
 | JavaScript                | Not Started |
 | User Interfaces           | Not Started |
